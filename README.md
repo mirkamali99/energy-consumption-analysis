@@ -28,7 +28,6 @@ Optimize heating systems and improve building insulation in schools to reduce wi
 |------|-------------|
 | `energy_project.py` | Python script for data cleaning, analysis, and visualization |
 | `cleaned_energy_data.csv` | Cleaned dataset ready for analysis |
-| `dashboard.pdf` | Power BI dashboard export |
 | `report.md` | 2-page project report |
 
 ## How to Run
